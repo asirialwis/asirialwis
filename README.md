@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/asirichathurika" target="blank"><img src="https://img.shields.io/twitter/follow/asirichathurika?logo=twitter&style=for-the-badge" alt="asirichathurika" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AsiriChathurika" target="blank"><img src="https://img.shields.io/twitter/follow/asirichathurika?logo=twitter&style=for-the-badge" alt="asirichathurika" /></a> </p>
 
 
 - 🌱 I’m currently learning **C/C++ and Java**
