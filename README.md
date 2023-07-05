@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asiri Alwis</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;Information+Technology+enthusiast+;)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer & programmer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asirialwis&label=Profile%20views&color=0e75b6&style=flat" alt="asirialwis" /> </p>
@@ -16,7 +19,7 @@
 
 - 📫 How to reach me **asirichathurika900@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asirialwis&show_icons=true&locale=en" alt="asirialwis" /></p>
 
-
+![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
 
