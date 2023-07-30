@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **C/C++ and Java**
 
-- 🤝 I’m looking for help with **web application projects**
+- 🤝 I’m looking for help with **Java projects**
 
 - 📝 I regularly write articles on [https://dev.to/asirialwis](https://dev.to/asirialwis)
 
-- 📫 How to reach me **asirichathurika900@gmail.com**
+- 📫 How to reach me **asirichathurika@gmail.com**
 
 - ⚡ fun fact **I am funny**
 
