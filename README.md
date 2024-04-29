@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Asiri Alwis</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;Information+Technology+enthusiast+;)](https://git.io/typing-svg)
@@ -24,11 +25,13 @@
 - ⚡ fun fact **I am funny**
 <br/>
 
+
 # Connect with me:
 <p align="left">
 <a href="https://dev.to/asirialwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asirialwis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asiri-alwis-33bb762a4/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30" width="100"></a>
 <a href="https://twitter.com/asirichathurika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asirichathurika" height="30" width="40" /></a>
-<!-- <a href="https://www.linkedin.com/in/asiri-alwis-33bb762a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="asirichathurika" height="30" width="40" /></a> -->
+
 </p>
 
 # Languages and Tools:
@@ -50,6 +53,6 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ACprivateLimited) 
 
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<img src = "https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg">
 
