@@ -12,8 +12,8 @@
 <p align="left"> <a href="https://twitter.com/AsiriChathurika" target="blank"><img src="https://img.shields.io/twitter/follow/asirichathurika?logo=twitter&style=for-the-badge" alt="asirichathurika" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python**
-- 🔭 I’m currently working on [https://github.com/asirialwis/django-chat-app]
+- 🌱 I’m currently learning **C# and .NET**
+- 🔭 I’m currently working on [https://github.com/asirialwis/BookWeb]
 
 
 - 🤝 I’m looking for help with **Mobile Application Development**
