@@ -38,7 +38,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,postman,git,docker,vim,nodejs,react,express,nest,mongodb,java,spring,mysql,postgres,firebase,python,django,r,vite,npm,yarn,kotlin,dotnet,bootstrap,figma,vscode,androidstudio,idea,eclipse,visualstudio,mint,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,php,postman,git,docker,vim,nodejs,react,express,typescript,mongodb,java,spring,mysql,postgres,firebase,python,django,r,vite,npm,yarn,kotlin,dotnet,maven,bootstrap,figma,vscode,androidstudio,idea,eclipse,visualstudio,mint,linux,windows" />
   </a>
 </p>
 
