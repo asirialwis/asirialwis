@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/AsiriChathurika" target="blank"><img src="https://img.shields.io/twitter/follow/asirichathurika?logo=twitter&style=for-the-badge" alt="asirichathurika" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AlwisAsiri" target="blank"><img src="https://img.shields.io/twitter/follow/asirichathurika?logo=twitter&style=for-the-badge" alt="asirichathurika" /></a> </p>
 
 
 - 🌱 I’m currently learning **ReactNative , Spring Boot**
@@ -28,9 +28,12 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://dev.to/asirialwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asirialwis" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/asiri-alwis-33bb762a4/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30" width="100"></a>
-<a href="https://twitter.com/asirichathurika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asirichathurika" height="30" width="40" /></a>
+  <a href="https://dev.to/asirialwis" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dev.to"/></a>
+  <a href="https://www.linkedin.com/in/asiri-alwis-33bb762a4/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  /></a>
+  <a href="https://twitter.com/asirichathurika" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter"  /></a>
+   <a href="https://twitter.com/asirichathurika" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  /></a>
+</p>
+
 
 </p>
 
@@ -38,7 +41,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,php,postman,git,docker,vim,nodejs,react,express,typescript,mongodb,java,spring,mysql,postgres,firebase,python,django,r,vite,npm,yarn,kotlin,dotnet,maven,bootstrap,figma,vscode,androidstudio,idea,eclipse,visualstudio,mint,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,php,postman,git,docker,vim,nodejs,react,express,typescript,mongodb,java,spring,mysql,postgres,firebase,python,django,r,vite,npm,yarn,kotlin,dotnet,maven,bootstrap,figma,vscode,androidstudio,idea,eclipse,visualstudio,bash,mint,linux,windows" />
   </a>
 </p>
 
