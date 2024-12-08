@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/AlwisAsiri" target="blank"><img src="https://img.shields.io/twitter/follow/asirichathurika?logo=twitter&style=for-the-badge" alt="asirichathurika" /></a> </p>
 
 
-- 🌱 I’m currently learning **ReactNative , Spring Boot**
+- 🌱 I’m currently learning **NextJs , NestJs**
 - 🔭 I’m currently working on [https://github.com/asirialwis/Employee-Management-System]
 
 
