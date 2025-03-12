@@ -5,10 +5,10 @@
 <h1 align="center">Hi 👋, I'm Asiri Alwis</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;FOSS+enthusiast+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20%&color=black&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Inspiring+Software+Engineer;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 
-<h3 align="center">Undergraduate Student. Passionate fullstack developer from Sri Lanka</h3>
+<h3 align="center">Passionate fullstack developer from Sri Lanka</h3>
 <br/>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -81,6 +81,10 @@
 ## 💰 You can help me by Donating
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/asirialwis)
 
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+</div>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
