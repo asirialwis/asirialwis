@@ -1,12 +1,25 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+![Header](https://github.com/BEPb/BEPb/blob/main/src/header_.png)
+
 <h1 align="center">Hi 👋, I'm Asiri Alwis</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&center=true&vCenter=true&width=1000&lines=👋+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;FOSS+enthusiast+;)](https://git.io/typing-svg)
 
-<h3 align="center">Undergraduate Student. Passionate fullstack developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asirialwis&label=Profile%20views&color=0e75b6&style=flat" alt="asirialwis" /> </p>
 
+<h3 align="center">Undergraduate Student. Passionate fullstack developer from Sri Lanka</h3>
+<br/>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=asirialwis&label=Profile%20views" alt="asirialwis" />
+  <img src="https://img.shields.io/github/stars/asirialwis?label=Stars&style=social&color=0e75b6" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/asirialwis?label=Followers&style=social" alt="GitHub Followers" /> 
+ 
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/asiri-alwis-33bb762a4" target="_blank">
@@ -47,7 +60,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,javascript,php,postman,git,docker,vim,nodejs,react,express,typescript,mongodb,java,spring,mysql,postgres,firebase,python,vite,kotlin,dotnet,maven,bootstrap,tailwind,vscode,androidstudio,idea,eclipse,visualstudio,bash,mint,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,javascript,php,postman,git,docker,vim,nodejs,react,angular,express,typescript,mongodb,dotnet,mysql,postgres,firebase,python,vite,kotlin,java,spring,maven,bootstrap,tailwind,vscode,androidstudio,idea,eclipse,visualstudio,bash,mint,linux,windows" />
   </a>
 </p>
 
