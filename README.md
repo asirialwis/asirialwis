@@ -8,11 +8,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asirialwis&label=Profile%20views&color=0e75b6&style=flat" alt="asirialwis" /> </p>
 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/asiri-alwis-33bb762a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/AlwisAsiri" target="blank"><img src="https://img.shields.io/twitter/follow/asirichathurika?logo=twitter&style=for-the-badge" alt="asirichathurika" /></a> </p>
 
-
-- 🌱 I’m currently learning **NextJs , NestJs**
+- 🌱 I’m currently learning **Springboot , Angular**
 - 🔭 I’m currently working on [https://github.com/asirialwis/realtor-app]
 
 
@@ -25,23 +28,26 @@
 - ⚡ fun fact **I am funny**
 <br/>
 
-
+---
 # Connect with me:
 <p align="left">
   <a href="https://dev.to/asirialwis" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dev.to"/></a>
   <a href="https://www.linkedin.com/in/asiri-alwis-33bb762a4/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  /></a>
-  <a href="https://twitter.com/asirichathurika" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter"  /></a>
-   <a href="https://twitter.com/asirichathurika" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  /></a>
+  <a href="https://x.com/AlwisAsiri?t=asvkC5w86gLoTHpvVQu3ng&s=09" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter"  /></a>
+ <a href="https://www.instagram.com/asiri_alwis?igsh=cnBha2szdnhnZGp3" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 </p>
 
 
 </p>
 
+---
 # Languages and Tools:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,php,postman,git,docker,vim,nodejs,react,express,typescript,mongodb,java,spring,mysql,postgres,firebase,python,django,r,vite,npm,yarn,kotlin,dotnet,maven,bootstrap,figma,vscode,androidstudio,idea,eclipse,visualstudio,bash,mint,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,javascript,php,postman,git,docker,vim,nodejs,react,express,typescript,mongodb,java,spring,mysql,postgres,firebase,python,vite,kotlin,dotnet,maven,bootstrap,tailwind,vscode,androidstudio,idea,eclipse,visualstudio,bash,mint,linux,windows" />
   </a>
 </p>
 
@@ -53,7 +59,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asirialwis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asirialwis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=asirialwis&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asirialwis&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -63,5 +69,6 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ACprivateLimited) 
 
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 
